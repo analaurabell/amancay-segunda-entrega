@@ -1,0 +1,38 @@
+.fondo{
+    background-color:rgb(234, 227, 236);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.encabezado{ background-color:rgb(237, 234, 241);
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.lista{
+    padding-top: 20px;
+    background-color: rgba(236, 238, 245, 0.966);
+    height: 320px;
+}
+.lin:hover{background-color: rgb(98, 94, 121);}
+.lin:active{
+    background-color:cadetblue ;
+}
+.image{
+    padding-left: 15px;
+    padding-bottom: 10px;}
+
+.nav-bar{
+        background-color:rgb(242, 245, 247) ;
+        padding-top: 10px;
+        padding-bottom: 10px;}
+.ft-er{background-color:rgb(234, 227, 236);
+         margin-top: 15px;
+        padding-top: 8px;
+        padding-bottom: 8px;}
+          
+@media (orientation: landscape){ 
+    main div
+}
+@media (orientacion: portrait){
+  main div  
+}

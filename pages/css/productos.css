@@ -1,0 +1,23 @@
+.fondo{
+    background-color:rgb(234, 227, 236);
+}
+.lin:hover{background-color: rgb(98, 94, 121);}
+.lin:active{
+    background-color:cadetblue ;
+}
+.nav-bar{
+    background-color:rgb(242, 245, 247) ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.ft-er{
+    background-color:rgb(234, 227, 236);
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;}
+@media (orientation: landscape){ 
+    main 
+}
+@media (orientacion: portrait){
+  main 
+}

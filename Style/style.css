@@ -1,0 +1,72 @@
+
+.m{
+    margin-left: ($spacer * .30)
+}
+.btn{
+    background-color: rgb(243, 235, 235);
+    border-bottom: black;
+    border-radius: 4px;
+    outline-color: black;
+}
+.nav-fondo{
+    background-color:rgb(234, 227, 236) ;
+}
+.s-b{ padding-left: 15px;}
+.texto{
+    background-color: rgb(242, 245, 247);
+    height: 120px;
+    padding-top: 5px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    text-align: center;
+}
+.ig{
+    background-color:rgb(241, 236, 240);
+    text-align: center;
+}
+.nuei{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+.segundamitad{
+    background-color:rgb(234, 227, 236);
+}
+.ft-er{
+    background-color:rgb(234, 227, 236);
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.whatsapp{
+    position: fixed;
+        bottom: 5px;
+        right: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        z-index: 1;
+        max-height: 45px; 
+    }
+.lin:hover{background-color: rgb(98, 94, 121);}
+.lin:active{
+        background-color:cadetblue ;
+    }
+    
+@media (orientation: landscape){ 
+    nav main section footer
+}
+@media (orientacion: portrait){
+    nav main section footer    
+}
+@media (orientacion: portrait){
+    p   
+}
+@media (orientacion: portrait){
+   .medios-pagos  
+}
+@media (orientacion: landscape){
+    p   
+}
+@media (orientacion: landscape){
+   .medios-pagos  
+}
